@@ -1,0 +1,1 @@
+mandelbrot_step.c takes the array of data and computes values all at once in a single for loop then returns it all at once. The mandelbrot_step.m file takes a single set of values and calculates one by one. The c-file also doesn't have to do any copying of data this way, making it more efficient. Also C file has less overhead than the .m file since its written in C.

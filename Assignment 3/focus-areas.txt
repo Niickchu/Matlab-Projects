@@ -1,0 +1,8 @@
+When designing the project, I wanted to program the video to a certain short portion of the song: Home - Were finally landing. I chose to start the initial zoom into the set when the beat dropped in the song. From there, everything is timed to be coinciding with the music. Every time a synth is heard, it  is accompanied by a new focus point of my video.
+
+We begin by zooming into what I call the Chidori point (because the geometry and colour look like lightning) when the beat drops. I chose to start here because the specifically chosen pathway to the next point overviews the edge of the main bulb of the Mandelbrot set. The next zoom point is a non-branch Misiurewicz point, once again coinciding with a synth sound.
+
+From there, I chose to go from the pleasing light blue point to a contrastingly chaotic dark red abyss, which I promptly named: "The Depths of Tartarus". From there we reach our final infinitesimal destination, a Principal Misiurewicz point. You'll notice the drums in the music drop and the becomes melancholic, and were left slowly zooming into the point as we cut to black.
+
+
+The pixelation of the frames is due to the fixed depth value. To counter this problem I modifie
